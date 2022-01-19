@@ -1,0 +1,122 @@
+{
+  "main": { 
+    "name":"Prajakta Devlekar",
+    "description":"I'm a web developer and I use react.js to develop web-pages.",
+    "image":"profilepic.jpg",
+    "bio":"As a beginner level software developer in IBLUESYS, I work in a small agile team to update and maintain the software. I enjoy coding, designing and testing, have an urge to learn new things. Seeking new challenges and oppurtunities to leverage.",
+    "contactmessage":"Let,s get connected",
+    "email": "pdevlekar9909@gmail.com",
+    "phone": "7506209979",
+    "github":"https://github.com/prajakta-devlekar",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"(3/58, Vardhaman Krupa, Dr.Batliwala rd.,Parel)",
+      "city":"(Mumbai)",
+      "state":"(Maharashtra)",
+      "zip": "(400012)"
+    },
+  
+   
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/prajakta.devlekar.3",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/prajakta-devlekar-000531215/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/prajakta_devlekar_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/prajakta-devlekar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Sathaye College",
+        "degree":"BSC-IT",
+        "graduated":"April 2021",
+        "description":""
+      },
+      {
+        "school":"",
+        "degree":"HSC",
+        "graduated":"March 2018",
+        "description":""
+      }, {
+        "school":"Parel English School",
+        "degree":"SSC",
+        "graduated":"March 2016",
+        "description":""
+      }
+     
+    ],
+    "work":[
+      {
+        "company":"IBLUESYS COMPUTECH PVT.LTD.",
+        "title":"SOFTWARE DEVELOPER",
+        "years":"AUG 2021 - Present",
+        "description":"Perform necessary updates and maintenence of the software"
+      }
+    ],
+    "skills":[
+     
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"60%"
+      },
+  
+      {
+        "name":"JAVA",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+     
+      {
+        "title":"Commercial Landing Page",
+        "category":"A react based website for commercials",
+        "image":"03.png",
+        "url":"https://commercial-landing-page.netlify.app"
+      },
+      {
+        "title":"To-Do Activity List",
+        "category":"A React based to-do list for daily activities",
+        "image":"04.png",
+        "url":"https://to-do-activity-list.netlify.app"
+      },
+      {
+        "title":"Adventure Starts Here",
+        "category":"Check Out these amazing destinations",
+        "image":"05.png",
+        "url":"https://adventure-starts-here.netlify.app"
+      }
+     
+    ]
+  }
+}
